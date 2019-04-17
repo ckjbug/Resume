@@ -8,17 +8,17 @@
 
 
 ## 基本信息
-- 姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名：奎君/男/1996
+- 姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名：奎君/男/1996
 - 工作经验：2年
 - 求职意向：软件开发工程师
 - 毕业院校：南华大学（USC）
-- 专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业：软件工程
+- 专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业：软件工程
 - 政治面貌：积极分子
 - 技术博客：[Coding Daily](http://ckjbug.site)、[Cnblog](https://ckjbug.cnblogs.com)
-- GitHub：[https://github.com/ckjbug](https://github.com/ckjbug)
-- 电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：17610791667
-- 邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱：ckjbug@gmail.com、ckjbug@qq.com
-- 微&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信：ckjbug
+- &nbsp;GitHub&nbsp;&nbsp;：[https://github.com/ckjbug](https://github.com/ckjbug)
+- 电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：17610791667
+- 邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱：ckjbug@gmail.com、ckjbug@qq.com
+- 微&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信：ckjbug
 
 ## 专业技能
 - 掌握C#、TypeScript开发语言，熟练使用Visual Studio开发工具，了解C、C++、Python、Dart、Java等编程语言
@@ -42,25 +42,25 @@
 
 ### 中国航天科工集团二院（706所） |  初级开发工程师（实习） |  2018.5 - 2018.12
 - 参与分布式航天用例测试记录软件的设计与开发（WinForm/WPF 产品） ，采用 Master-Slave 主从模式，用于测 试人员对动态测试过程的完整记录，复现，可以实现多台计算机之间同步和协同记录（节点端和服务端）。 
-- 参与对国内外各大云服务提供商的资料收集和整理，测试云服务器功能
+- 负责对国内外各大云服务提供商的资料收集和整理，测试云服务器功能
 
 ## 项目经历
-### [内网穿透管理系统](https://github.com/Meowv/DDNS) 2018.12 - 2019.01
+### [管理系统](https://github.com/) 2018.12 - 2019.01
 - 技术栈：ASP.NET Core 2.2 + MySQL + WebApi + EF Core + Swagger + layuiAdmin
 - 前后端分离，主要功能点有注册、登录、修改密码、找回密码、发邮件、多语言切换、不同权限用户不同后台界面，DDNS服务隧道的管理，管理员审核开通DDNS隧道，用户CRUD等等
 - 独立开发部署在Linux服务器上，使用Nginx做反向代理，Supervisor配置守护进程开机自启
 
-### [大屏监控报表系统](https://github.com/Meowv/Monitor) 2018.10 - 2018.12
+### [报表系统](https://github.com/Meowv/Monitor) 2018.10 - 2018.12
 - 技术栈：Grafana + Zabbix + ASP.NET Core 2.1 + ECharts + MySQL + WebApi + EF Core + Dapper + Swagger + layuiAdmin
 - 基于角色授权的权限体系，使用ECharts开发大屏监控图表界面，可以自由切换多种风格主题，完整的用户后台体系
 - 根据文档自学Zabbix，借助API二次开发获取Zabbix监控数据返回前端生成可视化图表
 
-### 微信小程序：盖世汽车资讯/盖世汽车官方、AutoNews
+### 微信小程序
 - 基于ASP.NET WebApi编写具有REST风格的API
 - 学习微信小程序文档，独立开发公司小程序项目并上线
 - 熟悉微信小程序注册、开发、提审等一系列流程
 
-### App：[盖世汽车](https://itunes.apple.com/cn/app/盖世汽车/id1317702595)、[ChinaAuto](https://itunes.apple.com/cn/app/id1329909101)
+### App：[汽车](https://itunes.apple.com/cn/app/盖世汽车/id1317702595)、[ChinaAuto](https://itunes.apple.com/cn/app/id1329909101)
 - 基于APICloud平台开发iOS、Android原生App
 - 熟悉iOS/Android App开发流程，证书申请，打包上线
 - 负责App资讯模块，API数据，接入微信登录、分享，消息推送等
@@ -72,7 +72,7 @@
         <th width=153>项目时间</th>
     </tr>
     <tr>
-        <td><a href="http://acqiche.com">AC汽车官网</a></td>
+        <td><a href="http://acqiche.com">汽车官网</a></td>
         <td>
             1. 技术栈：Asp.Net WebForm + SqlServer + jQuery + Ajax + Dapper<br>
             2. 此为外包项目，开发的一个汽车资讯平台，用户可在后台发布文章、活动、商机等<br>
