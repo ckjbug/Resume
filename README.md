@@ -12,7 +12,7 @@
 - 工作经验：2年
 - 求职意向：软件开发工程师
 - 毕业院校：南华大学（USC）
-- 专业：软件工程
+- 专&nbsp;&nbsp;业：软件工程
 - 政治面貌：积极分子
 - 技术博客：[Coding Daily](http://ckjbug.site)、[Cnblog](https://ckjbug.cnblogs.com)
 - GitHub：[https://github.com/ckjbug](https://github.com/ckjbug)
