@@ -1,7 +1,6 @@
 <h1 align=center>个人简历</h1>
 <img src="https://avatars0.githubusercontent.com/u/19526194?s=460&v=4" width='80px' hight='80px' align=right></img>
 
-<progress value="70" max="100">70 %</progress>
 
 ## 基本信息
 - 奎君/男/1996
