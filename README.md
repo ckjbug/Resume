@@ -1,6 +1,7 @@
 <h1 align=center>个人简历</h1>
-<img src="https://avatars0.githubusercontent.com/u/19526194?s=460&v=4" width='80px' hight='80px' align=right></img>
 
+<img src="https://avatars0.githubusercontent.com/u/19526194?s=460&v=4" width='80px' hight='80px' align=right></img>
+<p><a src='https://github.com/ckjbug/Resume/blob/master/READMD_English.md'>English</a></p>
 
 ## 基本信息
 - 奎君/男/1996
