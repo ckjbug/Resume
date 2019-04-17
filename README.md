@@ -8,37 +8,41 @@
 
 
 ## 基本信息
-- 奎君/男/1996
+- 姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名：奎君/男/1996
 - 工作经验：2年
 - 求职意向：软件开发工程师
 - 毕业院校：南华大学（USC）
-- 专&nbsp;&nbsp;业：软件工程
+- 专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业：软件工程
 - 政治面貌：积极分子
 - 技术博客：[Coding Daily](http://ckjbug.site)、[Cnblog](https://ckjbug.cnblogs.com)
 - GitHub：[https://github.com/ckjbug](https://github.com/ckjbug)
-- 电话：17610791667
-- 邮箱：ckjbug@gmail.com、ckjbug@qq.com
-- 微信：ckjbug
+- 电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：17610791667
+- 邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱：ckjbug@gmail.com、ckjbug@qq.com
+- 微&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信：ckjbug
 
 ## 专业技能
-- 掌握C#、JavaScript开发语言，熟练使用Visual Studio开发工具，了解Python、Java、PHP等编程语言
-- 熟练操作SqlServer、MySQL数据库，掌握SQL语句/存储过程/游标/视图等的运用
-- 熟练运用.NET Core/MVC/WebApi/EF/Dapper等进行Web开发，有.NET Core开发经验
-- 熟悉Html，Css，jQuery，Ajax，Cookie，Session，React，Vue等前端知识，能快速开发Web网站，与后端进行数据通信等
-- 熟练使用Git/SVN代码管理工具进行团队合作开发
-- 熟练操作使用Windows、Linux、Mac 开发和部署，有服务器项目部署经验
-- 掌握微信小程序、基于APICloud的跨平台APP、数据抓取、脚本爬虫等开发
+- 掌握C#、TypeScript开发语言，熟练使用Visual Studio开发工具，了解C、C++、Python、Dart、Java等编程语言
+- 熟练操作SqlServer、MySQL、Redis数据库，掌握SQL语句/存储过程/视图等的运用
+- 熟练运用.NET Core/MVC/Web API/EF Core/Dapper等进行Web开发
+- 熟悉HTML，CSS，JavaScript，Cookie，Session等前端基础知识
+- 熟练使用Git代码管理工具进行团队合作开发和版本控制，了解DevOps（Azure/Jenkins）、敏捷开发
+- 熟悉Angular、Bootscript、Flutter等开发框架和技术
+- 掌握MVC、MVVM等开发模式、OOP设计思想，熟悉微服务（Docker） 、 敏捷开发、集群等技术
+- 熟悉Windows、Linux（Kali、Fedora）、Mac平台的开发和部署
+- 熟练使用多媒体和建模软件如PR、PS、AE、Ai、SU、C4D、Axure等
+
+## 语言技能
+- 英语CET4
+- 日语
 
 ## 工作经历
-### 上海盖世网络技术有限公司 初级开发工程师 2017.02 - 2019.02
-- Web项目、微信小程序、APP、CRM、爬虫、专题活动页Js交互效果等的开发工作
-- 与开发团队一起升级，维护，优化现有产品项目
-- 数据抓取，脚本批处理任务计划程序等
+### 中国核工业建设二三公司（设计所） |  初级开发工程师（实习） |  2017.10 - 2018.5
+- 接手PEPS项目（pcf数据格式转换项目），Excel数据格式转换相关模块的开发（NPOI）
+- 参与达索Delmia软件的二次开发（BIM行业仿真软件），基于组件的体系结构（PPR，有效地解决了维护、管理、扩展的困难，并大量使用了最新的计算机技术和标准以及软件工程技术仿真核辐射源，计算最优路径、模拟管道切割），采用内嵌 VBA编译工具开发。 
 
-### 湖北至邦工程技术有限公司 .NET开发工程师 2016.04 - 2017.02
-- 实习期间，快速学习进步，按时完成领导安排的开发任务
-- 域名购买、备案，网站前后端代码编写，完成公司内部网站并上线
-- 偶尔和领导一起出差谈项目需求，开发外包项目并至客户方技术支持和项目部署
+### 中国航天科工集团二院（706所） |  初级开发工程师（实习） |  2018.5 - 2018.12
+- 参与分布式航天用例测试记录软件的设计与开发（WinForm/WPF 产品） ，采用 Master-Slave 主从模式，用于测 试人员对动态测试过程的完整记录，复现，可以实现多台计算机之间同步和协同记录（节点端和服务端）。 
+- 参与对国内外各大云服务提供商的资料收集和整理，测试云服务器功能
 
 ## 项目经历
 ### [内网穿透管理系统](https://github.com/Meowv/DDNS) 2018.12 - 2019.01
@@ -157,6 +161,10 @@
 </table>
 
 ## 自我评价
-- 爱折腾，对新事物充满好奇，对技术充满追求，代码编写规范
-- 做事踏实认真，思维严谨，自学能力强
-- 热爱读书，烹饪和哲学，对生活充满热情
+- 工作积极认真，细心负责，有较强的分析和动手能力
+- 勤奋好学，踏实肯干，有很强的社会责任感
+- 坚毅不拔，吃苦耐劳，喜欢和善于迎接新挑战
+- 适应能力强，心胸豁达，有很强的团队协作精神和与人沟通能力
+- 极客，技术宅，热爱开源，爱设计，爱旅游
+- 长期活跃在各大IT技术论坛和开源社区
+- 大学所有的专业和非专业知识都总结在印象笔记（200多篇），方便以后快速拾起
