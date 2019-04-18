@@ -55,11 +55,6 @@
 - 基于角色授权的权限体系，使用ECharts开发大屏监控图表界面，可以自由切换多种风格主题，完整的用户后台体系
 - 根据文档自学Zabbix，借助API二次开发获取Zabbix监控数据返回前端生成可视化图表
 
-### 微信小程序
-- 基于ASP.NET WebApi编写具有REST风格的API
-- 学习微信小程序文档，独立开发公司小程序项目并上线
-- 熟悉微信小程序注册、开发、提审等一系列流程
-
 ### App：[汽车](https://itunes.apple.com/cn/app/盖世汽车/id1317702595)、[ChinaAuto](https://itunes.apple.com/cn/app/id1329909101)
 - 基于APICloud平台开发iOS、Android原生App
 - 熟悉iOS/Android App开发流程，证书申请，打包上线
@@ -160,7 +155,7 @@
     </tr>
 </table>
 
-## 自我评价
+## Self Evaluate
 - 工作积极认真，细心负责，有较强的分析和动手能力
 - 勤奋好学，踏实肯干，有很强的社会责任感
 - 坚毅不拔，吃苦耐劳，喜欢和善于迎接新挑战
