@@ -18,9 +18,10 @@
 - Tel：17610791667
 - Email：ckjbug@gmail.com、ckjbug@qq.com
 - WeChat：ckjbug
+- Expect work location：Southwest China
 
-## 专业技能
-- 掌握C#、TypeScript开发语言，熟练使用Visual Studio开发工具，了解C、C++、Python、Dart、Java等编程语言
+## Professional ability
+- 掌握**C#**、TypeScript开发语言，熟练使用Visual Studio开发工具，了解C、C++、Python、Dart、Java等编程语言
 - 熟练操作SqlServer、MySQL、Redis数据库，掌握SQL语句/存储过程/视图等的运用
 - 熟练运用.NET Core/MVC/Web API/EF Core/Dapper等进行Web开发
 - 熟悉HTML，CSS，JavaScript，Cookie，Session等前端基础知识
@@ -34,7 +35,7 @@
 - CET4
 - Japanese
 
-## 工作经历
+## Work experience
 ### 中国核工业建设二三公司（设计所） |  初级开发工程师（实习） |  2017.10 - 2018.5
 - 接手PEPS项目（pcf数据格式转换项目），Excel数据格式转换相关模块的开发（NPOI）
 - 参与达索Delmia软件的二次开发（BIM行业仿真软件），基于组件的体系结构（PPR，有效地解决了维护、管理、扩展的困难，并大量使用了最新的计算机技术和标准以及软件工程技术仿真核辐射源，计算最优路径、模拟管道切割），采用内嵌 VBA编译工具开发。 
@@ -43,13 +44,13 @@
 - 参与分布式航天用例测试记录软件的设计与开发（WinForm/WPF 产品） ，采用 Master-Slave 主从模式，用于测 试人员对动态测试过程的完整记录，复现，可以实现多台计算机之间同步和协同记录（节点端和服务端）。 
 - 负责对国内外各大云服务提供商的资料收集和整理，测试云服务器功能
 
-## 项目经历
-### [管理系统](https://github.com/) 2018.12 - 2019.01
+## Project experience
+### [新闻发布系统](https://github.com/ckjbug) 2018.12 - 2019.01
 - 技术栈：ASP.NET Core 2.2 + MySQL + WebApi + EF Core + Swagger + layuiAdmin
 - 前后端分离，主要功能点有注册、登录、修改密码、找回密码、发邮件、多语言切换、不同权限用户不同后台界面，DDNS服务隧道的管理，管理员审核开通DDNS隧道，用户CRUD等等
 - 独立开发部署在Linux服务器上，使用Nginx做反向代理，Supervisor配置守护进程开机自启
 
-### [报表系统](https://github.com/Meowv/Monitor) 2018.10 - 2018.12
+### [测试用例记录器](https://github.com/ckjbug) 2018.10 - 2018.12
 - 技术栈：Grafana + Zabbix + ASP.NET Core 2.1 + ECharts + MySQL + WebApi + EF Core + Dapper + Swagger + layuiAdmin
 - 基于角色授权的权限体系，使用ECharts开发大屏监控图表界面，可以自由切换多种风格主题，完整的用户后台体系
 - 根据文档自学Zabbix，借助API二次开发获取Zabbix监控数据返回前端生成可视化图表
