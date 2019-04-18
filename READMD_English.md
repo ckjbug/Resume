@@ -4,7 +4,7 @@
 
 <br>
 
-<p><a href="https://github.com/ckjbug/Resume/blob/master/READMD.md">Chinese</a></p>
+<p><a href="https://github.com/ckjbug/Resume/blob/master/README.md">Chinese</a></p>
 
 
 ## Basic information
