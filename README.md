@@ -50,20 +50,17 @@
 - 前后端分离，主要功能点有注册、登录、修改密码、找回密码、发邮件、多语言切换、不同权限用户不同后台界面，DDNS服务隧道的管理，管理员审核开通DDNS隧道，用户CRUD等等
 - 独立开发部署在Linux服务器上，使用Nginx做反向代理，Supervisor配置守护进程开机自启
 
-### [报表系统](https://github.com/Meowv/Monitor) 2018.10 - 2018.12
-- 技术栈：Grafana + Zabbix + ASP.NET Core 2.1 + ECharts + MySQL + WebApi + EF Core + Dapper + Swagger + layuiAdmin
-- 基于角色授权的权限体系，使用ECharts开发大屏监控图表界面，可以自由切换多种风格主题，完整的用户后台体系
-- 根据文档自学Zabbix，借助API二次开发获取Zabbix监控数据返回前端生成可视化图表
+### [报表系统](https://github.com/Blue-Oranges/Angular_Tutorial) 2019.01 - 2019.02
+- 技术栈：Angular + ASP.NET Core Web API + Identity Server 4 + ECharts
+- 基于Identity Server 4授权的权限体系，使用ECharts开发大屏数据图表界面，可以自由切换多种风格主题，完整的用户后台体系
+- 创建Web API，接入后台数据，绑定到ECharts
 
-### 微信小程序
-- 基于ASP.NET WebApi编写具有REST风格的API
-- 学习微信小程序文档，独立开发公司小程序项目并上线
-- 熟悉微信小程序注册、开发、提审等一系列流程
+### App：
+[Cnblog App](https://github.com/Blue-Oranges/CnblogApp)
 
-### App：[汽车](https://itunes.apple.com/cn/app/盖世汽车/id1317702595)、[ChinaAuto](https://itunes.apple.com/cn/app/id1329909101)
-- 基于APICloud平台开发iOS、Android原生App
+- 基于Flutter台开发iOS、Android原生博客园App
 - 熟悉iOS/Android App开发流程，证书申请，打包上线
-- 负责App资讯模块，API数据，接入微信登录、分享，消息推送等
+- 负责App博客模块，调用开放的API，接入数据、分享，消息推送等
 
 <table>
     <tr>

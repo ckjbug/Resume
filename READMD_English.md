@@ -55,8 +55,8 @@
 - 基于角色授权的权限体系，使用ECharts开发大屏监控图表界面，可以自由切换多种风格主题，完整的用户后台体系
 - 根据文档自学Zabbix，借助API二次开发获取Zabbix监控数据返回前端生成可视化图表
 
-### App：[汽车](https://itunes.apple.com/cn/app/盖世汽车/id1317702595)、[ChinaAuto](https://itunes.apple.com/cn/app/id1329909101)
-- 基于APICloud平台开发iOS、Android原生App
+### App：[Cnblog App](https://github.com/Blue-Oranges/CnblogApp)
+- 基于Flutter台开发iOS、Android原生博客园App
 - 熟悉iOS/Android App开发流程，证书申请，打包上线
 - 负责App资讯模块，API数据，接入微信登录、分享，消息推送等
 
