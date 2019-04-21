@@ -45,22 +45,17 @@
 - 负责对国内外各大云服务提供商的资料收集和整理，测试云服务器功能
 
 ## 项目经历
-### [管理系统](https://github.com/) 2018.12 - 2019.01
+### [Onrecord用例记录器](https://github.com/) 2018.06 - 2018.12
 - 技术栈：ASP.NET Core 2.2 + MySQL + WebApi + EF Core + Swagger + layuiAdmin
 - 前后端分离，主要功能点有注册、登录、修改密码、找回密码、发邮件、多语言切换、不同权限用户不同后台界面，DDNS服务隧道的管理，管理员审核开通DDNS隧道，用户CRUD等等
 - 独立开发部署在Linux服务器上，使用Nginx做反向代理，Supervisor配置守护进程开机自启
 
-### [报表系统](https://github.com/Blue-Oranges/Angular_Tutorial) 2019.01 - 2019.02
-- 技术栈：Angular + ASP.NET Core Web API + Identity Server 4 + ECharts
+### [认证文档发布系统](https://github.com/Blue-Oranges/Angular_Tutorial) 2019.01 - 2019.02
+- 技术栈：Angular + ASP.NET Core2.x + Web API + Identity Server 4 + Bootstrap + ECharts
 - 基于Identity Server 4授权的权限体系，使用ECharts开发大屏数据图表界面，可以自由切换多种风格主题，完整的用户后台体系
 - 创建Web API，接入后台数据，绑定到ECharts
 
-### App：
-[Cnblog App](https://github.com/Blue-Oranges/CnblogApp)
-
-- 基于Flutter台开发iOS、Android原生博客园App
-- 熟悉iOS/Android App开发流程，证书申请，打包上线
-- 负责App博客模块，调用开放的API，接入数据、分享，消息推送等
+### 开源项目：2016.06 - 至今
 
 <table>
     <tr>
@@ -69,25 +64,23 @@
         <th width=153>项目时间</th>
     </tr>
     <tr>
-        <td><a href="http://acqiche.com">汽车官网</a></td>
+        <td><a href="https://github.com/ckjbug/Hacking">Hacking</a></td>
         <td>
-            1. 技术栈：Asp.Net WebForm + SqlServer + jQuery + Ajax + Dapper<br>
-            2. 此为外包项目，开发的一个汽车资讯平台，用户可在后台发布文章、活动、商机等<br>
-            3. 采用典型的三层框架开发，设计数据库并独立完成PC端，移动端和后台，部署上线稳定运行至今
+整理和开发网络安全，黑客技术文档和工具，代码。第一个1k+Star的开源项目，现在任在维护。
         </td>
-        <td>2018.07 - 2018.07</td>
+        <td>2017.07 - 至今</td>
     </tr>
     <tr>
-        <td>汽车资讯爬虫项目</td>
+        <td><a href="https://github.com/Blue-Oranges/CnblogApp">Cnblog IOS</a></td>
         <td>
-            1. 技术栈：C#控制台项目 + HtmlAgilityPack + Newtonsoft.Json + Dapper<br>
-            2. 模拟浏览器访问网站，破解加密Js，抓包调试分析请求过程，去重批量抓取10多个汽车资讯网站文章入库进入待审列表<br>
-            3. 抓取的站点可配置化，灵活新增数据源，利用Windows任务计划程序实时运行，稳定至今
+1. 基于Flutter台开发iOS、Android原生博客园App
+2. 熟悉iOS/Android App开发流程，证书申请，打包上线
+3. 负责App博客模块，调用开放的API，接入数据、分享，消息推送等
         </td>
-        <td>2018.04 - 2018.07</td>
+        <td>2019.01 - 2019.04</td>
     </tr>
     <tr>
-        <td><a href="http://autonews.gasgoo.com">盖世汽车英文资讯站</a></td>
+        <td><a href="http://autonews.gasgoo.com">ooooog</a></td>
         <td>
             1. 技术栈：Asp.Net WebForm + SqlServer + jQuery + Ajax + Dapper<br>
             2. 网站升级改版，独立完成其PC端和移动端站点，点击量/访问量统计开发<br>
@@ -96,7 +89,7 @@
         <td>2017.09 - 2017.09</td>
     </tr>
     <tr>
-        <td><a href="http://auto.gasgoo.com">盖世汽车资讯站</a></td>
+        <td><a href="http://auto.gasgoo.com">汽车资讯站</a></td>
         <td rowspan="3">
             1. 和开发团队共同开发维护的网站<br>
             2. 负责网站的优化升级改版、资讯/人脉模块的开发等<br>
@@ -105,13 +98,13 @@
         <td rowspan="3">2017 - 2019</td>
     </tr>
     <tr>
-        <td><a href="https://m.gasgoo.com">盖世汽车移动站</a></td>
+        <td><a href="https://m.gasgoo.com">汽车移动站</a></td>
     </tr>
     <tr>
-        <td><a href="https://i.gasgoo.com">盖世汽车社区站</a></td>
+        <td><a href="https://i.gasgoo.com">汽车社区站</a></td>
     </tr>
     <tr>
-        <td>武汉市江汉区交通大队网站</td>
+        <td>交通大队网站</td>
         <td>
             1. 外派确定改版新需求，添加用户系统、每日值班等功能模块<br>
             2. 在旧项目基础上进行二次开发，前端界面改版重写<br>
@@ -120,7 +113,7 @@
         <td>2017.01 - 2017.02</td>
     </tr>
     <tr>
-        <td>武汉麦都教育咨询有限公司网站</td>
+        <td>教育咨询有限公司网站</td>
         <td rowspan="2">
             1. 技术栈：Asp.Net WebForm + SqlServer + jQuery + Ajax + ADO.NET + URLRewriter<br>
             2. 公司外包项目，独立完成网站前端页面的编写和动态交互效果<br>
@@ -130,11 +123,11 @@
         <td>2016.11 - 2016.12</td>
     </tr>
     <tr>
-        <td>武汉优仕德教育发展有限公司网站</td>
+        <td>教育发展有限公司网站</td>
         <td>2016.09 - 2016.10</td>
     </tr>
     <tr>
-        <td><a href="http://lubok.cn">湖北至邦工程技术有限公司网站</a></td>
+        <td><a href="http://lubok.cn">公司网站</a></td>
         <td rowspan="4">
             1. 技术栈：Asp.Net WebForm + SqlServer + jQuery + Ajax + ADO.NET<br>
             2. 实习期间独立开发、重构、改版的公司内部项目，前端DIV+CSS，三层架构模式开发<br>
@@ -144,15 +137,15 @@
         <td>2016.08 - 2016.09</td>
     </tr>
     <tr>
-        <td><a href="http://whdfjs.com">武汉东方建设集团有限公司网站</a></td>
+        <td><a href="http://whdfjs.com">公司网站</a></td>
         <td>2016.08 - 2016.08</td>
     </tr>
     <tr>
-        <td><a href="http://dfjssj.com">武汉东方建设集团建筑设计院网站</a></td>
+        <td><a href="http://dfjssj.com">设计院网站</a></td>
         <td>2016.07 - 2016.08</td>
     </tr>
     <tr>
-        <td><a href="http://zktit.com">武汉至科检测技术有限公司网站</a></td>
+        <td><a href="http://zktit.com">公司网站</a></td>
         <td>2016.06 - 2016.07</td>
     </tr>
 </table>
