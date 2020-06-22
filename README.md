@@ -18,7 +18,7 @@
 - &nbsp;GitHub&nbsp;&nbsp;：[https://github.com/ckjbug](https://github.com/ckjbug)
 - 电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：17610791667
 - 邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱：ckjbug@gmail.com、ckjbug@qq.com
-- 微&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信：ckjbug
+- 微&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信：Well-Chat
 
 ## 专业技能
 - 掌握C#、TypeScript开发语言，熟练使用Visual Studio开发工具，了解C、C++、Python、Dart、Java等编程语言
@@ -29,14 +29,14 @@
 - 熟悉WinForm、WPF、Angular、Flutter、Bootscript等开发框架和技术
 - 掌握MVC、MVVM等开发模式、OOP设计思想，熟悉微服务（Docker） 、 敏捷开发、集群等技术
 - 熟悉Windows、Linux（Kali、Fedora）、Mac平台的开发和部署
-- 熟练使用多媒体和建模软件如PR、PS、AE、Ai、SU、C4D、Axure等
+- 熟练使用多媒体和建模软件如PR、PS、AE、Ai、C4D、Blender、Unity3D、Axure等
 
 ## 语言技能
 - 英语CET4
 - 日语
 
 ## 工作经历
-### 微软中国（北京） |  软件开发工程师、PM（实习） |  2019.6 - 2019.7
+### 微软中国（北京） |  软件开发工程师、PM（实习） |  2019.6 - 2019.8
 - 负责Center One（微软新视界）中Light House展示系统后台控制程序的重构和设计，实现整个展厅的自动化和产品化。
 - 参与Center One整个Tour的需求设计，完善Lighthouse控制软件中前端页面涉及到的各个功能、对应的后台管理功能及控制端软件界面交互细节。
 
@@ -46,7 +46,7 @@
 
 ### 中国核工业建设二三公司（设计所） |  初级开发工程师（实习） |  2017.10 - 2018.5
 - 接手PEPS项目（pcf数据格式转换项目），Excel数据格式转换相关模块的开发（NPOI）
-- 参与达索Delmia软件的二次开发（BIM行业仿真软件），基于组件的体系结构（PPR，有效地解决了维护、管理、扩展的困难，并大量使用了最新的计算机技术和标准以及软件工程技术仿真核辐射源，计算最优路径、模拟管道切割），采用内嵌 VBA编译工具开发。 
+- 参与达索Delmia软件的二次开发（BIM行业仿真软件），基于组件的体系结构（PPR，有效地解决了维护、管理、扩展的困难，并大量使用了最新的计算机技术和标准以及软件工程技术仿真核辐射源，计算最优路径、模拟管道切割），采用内嵌 VBA编译工具开发
 
 ## 项目经历
 ### [Onrecord用例记录器](https://github.com/) 2018.06 - 2018.12
