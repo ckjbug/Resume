@@ -9,11 +9,10 @@
 
 ## 基本信息
 - 姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名：奎君/男/1996
-- 工作经验：2年
+- 工作经验：3年
 - 求职意向：软件开发工程师
 - 毕业院校：南华大学（USC）
 - 专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业：软件工程
-- 政治面貌：积极分子
 - 技术博客：[Coding Daily](http://ckjbug.site)、[Cnblog](https://ckjbug.cnblogs.com)
 - &nbsp;GitHub&nbsp;&nbsp;：[https://github.com/ckjbug](https://github.com/ckjbug)
 - 电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：17610791667
@@ -37,7 +36,7 @@
 
 ## 工作经历
 ### 某县城事业单位（重庆） |  数据库管理工程师（在编） |  2020.8 - 至今
-- 负责全院数据库管理和建设。
+- 负责全院数据库管理和网络管理及建设。
 
 ### 微软中国（北京） |  软件开发工程师、PM（实习） |  2019.6 - 2019.8
 - 负责Center One（微软新视界）中Light House展示系统后台控制程序的重构和设计，实现整个展厅的自动化和产品化。
