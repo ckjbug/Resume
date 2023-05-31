@@ -9,7 +9,7 @@
 
 ## 基本信息
 - 姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名：奎君/男/1996
-- 工作经验：3年
+- 工作经验：4年
 - 求职意向：软件开发工程师
 - 毕业院校：南华大学（USC）
 - 专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业：软件工程
@@ -35,8 +35,8 @@
 - 日语
 
 ## 工作经历
-### 重庆某县城事业单位 |  数据库管理工程师（在编） |  2020.8 - 至今
-- 负责全院数据库管理和网络管理及建设。
+### 重庆某事业单位 |  数据库管理工程师（在编） |  2020.8 - 至今
+- 负责全院数据库管理和网络信息安全建设。
 
 ### 微软中国（北京） |  软件开发工程师、PM（实习） |  2019.6 - 2019.8
 - 负责Center One（微软新视界）中Light House展示系统后台控制程序的重构和设计，实现整个展厅的自动化和产品化。
@@ -86,7 +86,7 @@
         <td>2019.01 - 2019.04</td>
     </tr>
     <tr>
-        <td><a href="http://autonews.gasgoo.com">ooooog</a></td>
+        <td><a href="http://autonews.com">Ooooog</a></td>
         <td>
             1. 技术栈：Asp.Net WebForm + SqlServer + jQuery + Ajax + Dapper<br>
             2. 网站升级改版，独立完成其PC端和移动端站点，点击量/访问量统计开发<br>
@@ -94,66 +94,7 @@
         </td>
         <td>2017.09 - 2017.09</td>
     </tr>
-    <tr>
-        <td><a href="http://auto.gasgoo.com">汽车资讯站</a></td>
-        <td rowspan="3">
-            1. 和开发团队共同开发维护的网站<br>
-            2. 负责网站的优化升级改版、资讯/人脉模块的开发等<br>
-            3. 按照需求完成后台开发任务，供运营人员维护网站数据
-        </td>
-        <td rowspan="3">2017 - 2019</td>
-    </tr>
-    <tr>
-        <td><a href="https://m.gasgoo.com">汽车移动站</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://i.gasgoo.com">汽车社区站</a></td>
-    </tr>
-    <tr>
-        <td>交通大队网站</td>
-        <td>
-            1. 外派确定改版新需求，添加用户系统、每日值班等功能模块<br>
-            2. 在旧项目基础上进行二次开发，前端界面改版重写<br>
-            3. 负责主要开发工作，升级Framework至4.0版本，至甲方现场部署并上线<br>
-        </td>
-        <td>2017.01 - 2017.02</td>
-    </tr>
-    <tr>
-        <td>教育咨询有限公司网站</td>
-        <td rowspan="2">
-            1. 技术栈：Asp.Net WebForm + SqlServer + jQuery + Ajax + ADO.NET + URLRewriter<br>
-            2. 公司外包项目，独立完成网站前端页面的编写和动态交互效果<br>
-            3. 负责框架搭建，数据库设计，项目模块划分、分配开发任务<br>
-            4. 页面伪静态化URL重写，部分后台CRUD开发，项目快速完成并交付给甲方<br>
-        </td>
-        <td>2016.11 - 2016.12</td>
-    </tr>
-    <tr>
-        <td>教育发展有限公司网站</td>
-        <td>2016.09 - 2016.10</td>
-    </tr>
-    <tr>
-        <td><a href="http://lubok.cn">公司网站</a></td>
-        <td rowspan="4">
-            1. 技术栈：Asp.Net WebForm + SqlServer + jQuery + Ajax + ADO.NET<br>
-            2. 实习期间独立开发、重构、改版的公司内部项目，前端DIV+CSS，三层架构模式开发<br>
-            3. 数据库设计，公司后端开发框架搭建，数据绑定展示多采用Ajax和泛型List<T>完成<br>
-            4. 同时负责网站的备案，项目上线、后期维护等工作，可在线查看网站
-        </td>
-        <td>2016.08 - 2016.09</td>
-    </tr>
-    <tr>
-        <td><a href="http://whdfjs.com">公司网站</a></td>
-        <td>2016.08 - 2016.08</td>
-    </tr>
-    <tr>
-        <td><a href="http://dfjssj.com">设计院网站</a></td>
-        <td>2016.07 - 2016.08</td>
-    </tr>
-    <tr>
-        <td><a href="http://zktit.com">公司网站</a></td>
-        <td>2016.06 - 2016.07</td>
-    </tr>
+   
 </table>
 
 ## 自我评价
