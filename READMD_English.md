@@ -9,7 +9,7 @@
 
 ## Basic information
 - Name：Kuijun/Male/1996
-- Work experience：2 years
+- Work experience：5 years
 - Career：Software Engineer
 - University：University of South China（USC）
 - Major：Software Engineering
