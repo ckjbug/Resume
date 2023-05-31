@@ -63,4 +63,4 @@
 - I have strong adaptability, an open-minded attitude, and excellent teamwork and communication skills.
 - I am a tech enthusiast, a homebody, passionate about open-source projects, and enjoy design and traveling.
 - I am actively engaged in various IT technology forums and open-source communities.
-- 大学所有的专业和非专业知识都总结在印象笔记（200多篇），方便以后快速拾起
+- All professional and non-professional knowledge of the university is summarized in Evernote (more than 200 articles), which is convenient to pick up quickly later.
